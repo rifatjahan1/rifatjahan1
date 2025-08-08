@@ -25,7 +25,7 @@ Currently enhancing my skills with React.js and Tailwind CSS.
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,react" />
 </p>
 
 ### **Tools & Others**
@@ -41,7 +41,7 @@ Currently enhancing my skills with React.js and Tailwind CSS.
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
-📧 Email: **rifatjahan.dev@gmail.com**  
+📧 Email: **jahanrifat623@gmail.com**  
 📍 Location: *Dhaka, Bangladesh*
 
 ---
