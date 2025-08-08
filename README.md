@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Frontend+Web+Developer+Profile)
+![Banner](https://github.com/rifatjahan1/rifatjahan1/blob/main/Rifat%20Jahan.png)
 
 # Hi there, I'm **Rifat Jahan** 👋  
 ### 🌐 Frontend Web Developer
