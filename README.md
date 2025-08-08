@@ -28,6 +28,11 @@ Currently enhancing my skills with React.js and Tailwind CSS.
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs" />
 
 </p>
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
 
 ### **Tools & Others**
 <p>
