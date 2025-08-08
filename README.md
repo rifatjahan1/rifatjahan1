@@ -25,7 +25,7 @@ Currently enhancing my skills with React.js and Tailwind CSS.
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,node.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs, express" />
 </p>
 
 ### **Tools & Others**
